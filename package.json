@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rafa-so/sheet_to_json/issues"
   },
-  "homepage": "https://github.com/rafa-so/sheet_to_json#readme"
+  "homepage": "https://github.com/rafa-so/sheet_to_json#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
 }
